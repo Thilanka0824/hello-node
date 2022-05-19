@@ -9,3 +9,10 @@ console.log(" HH   HH eeeee  lll lll oo  oo   ww ww ww  oo  oo rr     lll dd   d
 console.log(" HH   HH  eeeee lll lll  oooo     ww  ww    oooo  rr     lll  dddddd !!! ")
 
 console.log(" ")
+
+console.log("  ____    _             _                   _     ")
+console.log(" | __ )  (_)   __ _    | |_    ___  __  __ | |_   ")
+console.log(" |  _ \  | |  / _` |   | __|  / _ \ \ \/ / | __|  ")
+console.log(" | |_) | | | | (_| |   | |_  |  __/  >  <  | |_   ")
+console.log(" |____/  |_|  \__, |    \__|  \___| /_/\_\  \__|  ")
+console.log("              |___/                               ")
